@@ -1,2 +1,8 @@
-# TP_Cecilia_Martignoni
-Trabajo de Cecilia Martignoni
+Se desarrollará un sitio web de comercio electrónico. 
+
+Tecnología a usar: 
+HTML5
+CSS
+JAVASCRIPT
+
+
